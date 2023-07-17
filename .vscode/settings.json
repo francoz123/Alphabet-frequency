@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "file_operations.h": "c",
+        "types.h": "c",
+        "string.h": "c",
+        "histogram.h": "c",
+        "stdlib.h": "c"
+    }
+}
