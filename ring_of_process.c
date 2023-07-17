@@ -1,5 +1,4 @@
 #include "ring_of_process.h"
-#include <sys/types.h>
 #include <unistd.h>
 #include <stdlib.h>
 

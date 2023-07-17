@@ -18,3 +18,5 @@ file_operations.o: file_operations.c file_operations.h
 	${COMPILER} ${CFLAGS} -c file_operations.c -o file_operations.o
 clean:
 	rm -f *~ *.o ${EXES}
+run: 
+	./assignment1 2 text_files
