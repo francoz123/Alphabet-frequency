@@ -1,0 +1,9 @@
+5I will be printed in the file tricky.txt
+I will be printed in the file tricky.txt
+I will be printed in the file tricky.txt
+I will be printed in the file tricky.txt
+I will be printed in the file tricky.txt
+
+I will be printed in the file tricky.txt
+3
+valgrind --leak-check=full --show-leak-kinds=all make run
